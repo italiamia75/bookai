@@ -1,0 +1,5 @@
+{
+  "name": "AI Book Weaver",
+  "description": "An application that uses AI agents to generate a complete, professional book from a user's description, including a cover. It features an admin panel to configure generation costs based on page count.",
+  "requestFramePermissions": []
+}
